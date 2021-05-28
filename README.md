@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun_KC</h1>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arunkumarchaudhari) 
 <h3 align="center">A passionate Android developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunkumarchaudhari&label=Profile%20views&color=0e75b6&style=flat" alt="arunkumarchaudhari" /> </p>
